@@ -1,0 +1,19 @@
+[{
+  
+    "name": "Science Fiction",
+    "books": [{"_id":"605fc90dec831dd217aecf4d"},{"_id":"605fc90dec831dd217aecf4e"}]
+   
+  },
+  {
+   
+    "name": "Horror",
+    "books": [{"_id":"605fc90dec831dd217aecf4f"},{"_id":"605fc90dec831dd217aecf50"}]
+   
+  },
+  {
+   
+    "name": "Drama",
+    "books":[{"_id":"605fc90dec831dd217aecf51"}]
+   
+  
+  }]

@@ -1,0 +1,24 @@
+[{
+  
+    "name": "ahmed",
+    "gender": "male",
+    "Phone":"011478523",
+    "books": [{"_id":"605fc90dec831dd217aecf4d"},{"_id":"605fc90dec831dd217aecf4e"}]
+   
+  },
+  {
+   
+    "name": "reem",
+    "gender": "female",
+    "Phone":"0115578523",
+    "books": [{"_id":"605fc90dec831dd217aecf4f"},{"_id":"605fc90dec831dd217aecf50"}]
+   
+  },
+  {
+   
+    "name": "amira",
+    "gender": "female",
+    "Phone":"0122478523",
+    "books":[{"_id":"605fc90dec831dd217aecf51"}]
+  
+  }]
